@@ -11,4 +11,4 @@ Download data.pt file from [here](https://drive.google.com/file/d/1Gqt4HxbUVILIb
 To run the code:  
 `python main.py`
 <br/><br/>
-### Attention: In our Supporting Information, the experiment under cold start setting follows the same setting as leave-combination-out study of DTSyn. If you have any question, please send emails to agoodoneisme@foxmail.com.
+### Attention: In our Supporting Information, the experiment under cold start setting follows the same setting as leave-combination-out study of DTSyn.
